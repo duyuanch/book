@@ -5,3 +5,4 @@ Java 目录
 
 C 目录
 * [《C Primer Plus 第6版 中文版》](books/C-Primer-Plus-第6版-中文版.pdf)
+* [《C Primer Plus 第6版 英文版》](books/c-primer-plus-6th-edition.pdf)
